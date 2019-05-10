@@ -16,7 +16,7 @@
 
 
 
-###프로세스 상태 (Process State)
+### 프로세스 상태 (Process State)
 
 
 
@@ -80,7 +80,7 @@ Linux 커널 안에서 모든 활성 프로세스들은 아래 그림과 같이 
 
 ---
 
-##3.2 프로세스 스케줄링(Process Scheduling)
+## 3.2 프로세스 스케줄링(Process Scheduling)
 
 * CPU 사용을 최대한 효율적으로 해주려면 항상 CPU에서 어떤 프로세스가 실행되도록 time-sharing이 이루어져야한다.
 
